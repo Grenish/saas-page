@@ -24,7 +24,7 @@ export default function Navbar() {
                 </svg>
               </div>
               <h2 className="text-xl font-wagner font-medium tracking-wide drop-shadow-sm">
-                AI Labs
+                EvoLabs AI
               </h2>
             </div>
 
